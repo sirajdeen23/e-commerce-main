@@ -1,16 +1,8 @@
-<p align="center">
-  <img src="https://github.com/Moamal-2000/e-commerce/assets/103026211/935f9fd0-1cfa-4164-9947-3ce38a8f1484" alt="E-Commerce Website Preview">
-</p>
 
 <h1 align="center">E-Commerce Website</h1>
 
-<p align="center">
-  Designed by: <a href="https://dribbble.com/mdrimel15" target="_blank">mdrimel15</a>, 
-  Design on <a href="https://www.figma.com/file/bwhp2Q5jdzJDIw5YIsBlXe/Full-E-Commerce-Website-UI-UX-Design-(Community)?node-id=34%3A213&mode=design" target="_blank">Figma</a>
-</p>
-
 > [!Note]
-> This project was featured on <a href="https://www.codewithrandom.com/2024/06/04/create-e-commerce-website-using-react" target="_blank">CodeWithRandom</a>. Please give credit to the original repository: <a href="https://github.com/Moamal-2000/e-commerce">https://github.com/Moamal-2000/e-commerce</a>
+
 
 ## 1. Installation
 
@@ -36,7 +28,6 @@ npm run dev
 
 You are welcome to use and modify the codebase for personal and educational purposes. However, please respect the original designer's work and do not use this project for commercial purposes without appropriate permissions.
 
-© 2024 Moamal Alaa Kareem | All rights reserved.
 
 ## 3. Technologies Used
 
