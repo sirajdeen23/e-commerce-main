@@ -86,7 +86,7 @@ export const NAV_PROPS = {
 export const REGEX_PATTERNS = {
   email: /^[0-9a-zA-Z._]+@[a-z]+\.[a-z]+$/,
   words: /([-]|\s?&\s|'s[-&]?)/g,
-  iraqiPhone: /^\d{11}$/,
+  iraqiPhone: /^\d{10}$/,
 };
 
 // Config
