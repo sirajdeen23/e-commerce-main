@@ -69,8 +69,8 @@ export const pagesRequireSignIn = [
 
 // Auth
 export const DEFAULT_LOGIN_DATA = {
-  username: "Lily Watson",
-  emailOrPhone: "lily.wastons@gmail.com",
+  username: "Sirajdeen",
+  emailOrPhone: "deens329@gmail.com",
   password: "random-password1234",
   isSignIn: true,
 };

@@ -191,7 +191,7 @@
     },
     "section2": {
       "support": "Support",
-      "address": "Iraq, Baghdad"
+      "address": "Chennai, India"
     },
     "section3": {
       "account": "Account",
@@ -210,7 +210,7 @@
     },
     "section5": {
       "downloadApp": "Download App",
-      "saveThreeDollars": "Save $3 with App New User Only"
+      "saveThreeDollars": "Save 3% with App New User Only"
     },
     "copyRightsText": {
       "designedBy": "Website designed by",
@@ -312,7 +312,7 @@
       "car": {
         "iconAlt": "Car",
         "title": "FREE AND FAST DELIVERY",
-        "description": "Free delivery for all orders over $140"
+        "description": "Free delivery for all orders over Rs.140"
       },
       "headphone": {
         "iconAlt": "Headphone",
