@@ -6,7 +6,6 @@ import { defineConfig } from "vite";
 export default defineConfig({
   // base must match the GitHub Pages repo subpath when deploying to
   // https://<user>.github.io/<repo>/
-  base: "/e-commerce-main/",
   plugins: [
     react(),
     postcss({

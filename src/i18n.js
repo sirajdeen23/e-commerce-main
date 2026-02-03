@@ -20,7 +20,11 @@ const i18nConfig = {
     caches: ["cookie"],
   },
   backend: {
-    loadPath: "/locale/{{lng}}/{{ns}}.json",
+    // ensure translations are loaded from the correct base when app is served
+    // from a subpath (e.g. GitHub Pages). Vite exposes the base as
+    // `import.meta.env.BASE_URL` (e.g. "/e-commerce-main/").
+    loadPath:
+      (import.meta.env.BASE_URL || "/") + "locale/{{lng}}/{{ns}}.json",
   },
 };
 
