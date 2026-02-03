@@ -21,7 +21,12 @@ const AppRoutes = () => {
     </Route>
   );
 
-  const router = createBrowserRouter(routes);
+  const router = createBrowserRouter(routes, {
+    // Use Vite's BASE_URL so the router works when the app is served
+    // from a subpath (e.g. GitHub Pages). Do NOT use
+    // `process.env.PUBLIC_URL` here — that's for Create React App.
+    basename: import.meta.env.BASE_URL || "/",
+  });
   return <RouterProvider router={router} />;
 };
 
