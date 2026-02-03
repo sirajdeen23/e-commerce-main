@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.3.0",
   "type": "module",
-  "homepage": "https://siraj23.github.io/e-commerce-main/",
+  "homepage": "https://sirajdeen23.github.io/e-commerce-main/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
